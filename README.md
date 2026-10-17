@@ -6,8 +6,8 @@ I am a Master's student in **Embedded Systems & Computer Science** at the Karlsr
 
 ### 🛠️ Core Technologies & Interests
 
-*   **Hardware Description & Verification:** Verilog, VHDL, Verilator
+*   **Hardware Description & Verification:** Verilog, VHDL
 *   **Computer Architecture & Simulation:** gem5, Hardware-Software Co-Design, Memory Hierarchies
-*   **Embedded & Low-Level Software:** C/C++, Embedded Linux (Fedora/Ubuntu kernels, performance tuning)
-*   **Infrastructure & Automation:** Podman, Docker, ZFS, Custom Linux Networking (VLANs), Home Assistant
-*   **Physical Computing & Making:** 3D Printing (BambuLab), ESP32 Microcontrollers, Robotics Integration
+*   **Embedded & Low-Level Software:** C/C++, Rust, Embedded Linux, Linux
+*   **Infrastructure & Automation:** Podman, Docker, ZFS, Networking, Virtualization, Home Assistant
+*   **Physical Computing & Making:** 3D Printing, Microcontrollers (ESP32), Robotics
